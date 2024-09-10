@@ -77,7 +77,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.PNG.svg',
         },
         items: [
           {
@@ -86,8 +86,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
+         { 
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
@@ -126,10 +125,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
