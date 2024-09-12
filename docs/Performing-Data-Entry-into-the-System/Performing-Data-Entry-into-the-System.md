@@ -4,7 +4,7 @@ title: Performing Data Entry into the System
 sidebar_position: 1
 ---
 
-# 3. Performing Data Entry into the System
+#  Performing Data Entry into the System
 
 To enter data into the system or view and/or edit existing cases, we use an application called ETL_v2. To open the ETL_v2 app window, follow these steps:
 
