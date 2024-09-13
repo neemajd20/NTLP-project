@@ -1,6 +1,6 @@
 ---
-id:  Enrolling-Leprosy-Case-into-POD-Treatment
-title:  Enrolling Leprosy Case into POD Treatment
+id:  Enrolling-Leprosy-case-into-POD-treatment
+title:  Enrolling Leprosy case into POD treatment
 sidebar_position: 3
 ---
 

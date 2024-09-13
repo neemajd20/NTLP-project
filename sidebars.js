@@ -66,9 +66,9 @@ const sidebars = {
                 type: 'category',
                 label: ' Entering records into eLeprosy Register',
                 items: [
-                  'Entering-Records-into-eLeprosy-Register/Entering-Records-into-eLeprosy-Register',
-                  'Entering-Records-into-eLeprosy-Register/Entering-Records-into-eLeprosy-Register',
-                  'Entering-Records-into-eLeprosy-Register/Leprosy-Treatment-Outcome',
+                  'Entering-records-into-eLeprosy-Register/Entering-records-into-eLeprosy-Register',
+                  'Entering-records-into-eLeprosy-Register/Leprosy-Treatment-Outcome',
+                  'Entering-records-into-eLeprosy-Register/Enrolling-Leprosy-case-into-POD-treatment',
                 ],
               },
               {
@@ -91,7 +91,7 @@ const sidebars = {
                       'Dashboard/Saving-a-Dashboard',
                       'Dashboard/Modifying-an-Existing-Dashboard',
                       'Dashboard/Deleting-a-Dashboard',
-                      'Dashboard/Dashboard Items with Charts, Pivot Tables, and Maps ',
+                      'Dashboard/Dashboard-items-with-charts,pivot-tables-and-maps',
                     ],
                   },
                   {
