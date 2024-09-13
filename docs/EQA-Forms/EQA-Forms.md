@@ -1,11 +1,11 @@
 ---
-id: EQA-Forms
-title: EQA Forms
+id: EQA-Forms2
+title: EQA Forms2
 sidebar_position: 1
 ---
 
 
-# EQA Forms
+# EQA Forms2
 
 External Quality Assessment (EQA) forms are essential tools for ensuring the accuracy and reliability of TB diagnostic tests performed in laboratories. EQA helps to identify areas for improvement and ensures that laboratories maintain high-quality standards in TB testing, which is crucial for effective disease management and control.
 
