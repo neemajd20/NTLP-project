@@ -1,6 +1,6 @@
 ---
-id: Message-and-Feedback
-title: Message and Feedback
+id: Message-and-Feedback-Overviews
+title: Message and Feedback Overviews
 sidebar_position: 1
 ---
 

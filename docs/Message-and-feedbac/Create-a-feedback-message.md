@@ -1,6 +1,6 @@
 ---
-id: Create-a-Feedback-Message
-title: Create a Feedback Message
+id: Create-a-feedback-message
+title: Create a feedback message
 sidebar_position: 4
 ---
 

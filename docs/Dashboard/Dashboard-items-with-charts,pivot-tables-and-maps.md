@@ -1,6 +1,6 @@
 ---
-id: Dashboard Items with Charts, Pivot Tables, and Maps 
-title: Dashboard Items with Charts, Pivot Tables, and Maps
+id: Dashboard-items-with-charts,pivot-tables-and-maps
+title: Dashboard items with charts,pivot tables and maps
 sidebar_position: 6
 ---
 

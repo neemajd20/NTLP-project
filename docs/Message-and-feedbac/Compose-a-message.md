@@ -1,6 +1,6 @@
 ---
-id: Compose-a-Message
-title: Compose a Message
+id: Compose-a-message
+title: Compose a message
 sidebar_position: 2
 ---
 

@@ -33,11 +33,11 @@ const sidebars = {
           
           {
             type: 'category',
-            label: ' Setting Up the Electronic TB Register',
+            label: ' Setting up the Electronic TB Register',
             items: [
-              'Setting-Up-the-Electronic-TB-Register/Setting-up-a User',
-              'Setting-Up-the-Electronic-TB-Register/Password-policies',
-              'Setting-Up-the-Electronic-TB-Register/Accessing-the-system',
+              'Setting-up-the-Electronic-TB-Register/Setting-up-a User',
+              'Setting-up-the-Electronic-TB-Register/Password-policies',
+              'Setting-up-the-Electronic-TB-Register/Accessing-the-system',
             ],
           },
 
@@ -98,10 +98,10 @@ const sidebars = {
                     type: 'category',
                     label: ' Message and feedback',
                     items: [
-                      'Message-and-feedback/Message-and-Feedback',
-                      'Message-and-feedback/Compose-a-Message',
-                      'Message-and-feedback/Read-a-Message',
-                      'Message-and-feedback/Create-a-Feedback-Message',
+                      'Message-and-feedback/Message-and-Feedback-Overviews',
+                      'Message-and-feedback/Compose-a-message',
+                      'Message-and-feedback/Read-a-message',
+                      'Message-and-feedback/Create-a-feedback-message',
                     ],
                   },
                   {

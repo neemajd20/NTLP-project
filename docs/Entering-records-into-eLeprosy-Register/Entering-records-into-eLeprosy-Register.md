@@ -1,6 +1,6 @@
 ---
-id: Entering-Records-into-eLeprosy-Register
-title: Entering Records into eLeprosy Register
+id: Entering-records-into-eLeprosy-Register
+title: Entering records into eLeprosy Register
 sidebar_position: 1
 ---
 
