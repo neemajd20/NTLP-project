@@ -1,6 +1,6 @@
 ---
-id: EQA-Forms2
-title: EQA Forms2
+id: EQA-Forms
+title: EQA Forms
 sidebar_position: 1
 ---
 

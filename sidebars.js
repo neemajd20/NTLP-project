@@ -20,7 +20,7 @@ const sidebars = {
         type: 'category',
       label: 'Acronyms',
       items: [
-        'Acronyms/Acronyms',
+        'Acronyms',
          ],
           },
           {
