@@ -1,5 +1,5 @@
 ---
-id: Read a Message
+id: Read-a-Message
 title: Read a Message
 sidebar_position: 3
 ---

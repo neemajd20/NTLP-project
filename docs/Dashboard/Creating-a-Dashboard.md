@@ -1,5 +1,5 @@
 ---
-id:  Creating a Dashboard
+id:  Creating-a-Dashboard
 title:  Creating a Dashboard
 sidebar_position: 1
 ---

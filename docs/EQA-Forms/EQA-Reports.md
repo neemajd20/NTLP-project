@@ -1,5 +1,5 @@
 ---
-id: EQA Reports
+id: EQA-Reports
 title: EQA Reports
 sidebar_position: 4
 ---
