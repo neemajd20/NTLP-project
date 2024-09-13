@@ -10,7 +10,7 @@ sidebar_position: 1
 
 1. Select **eLeprosy Register** from the list of registers.
 2. The **eLeprosy register** will open and display a list of cases that have been registered based on the selected organization unit or nothing if there is no case registered.
-
+![alt text](<../../static/img/Leprosy Cases registered in the system for selected Organization unit.PNG>)
    Figure 49: Leprosy Cases registered in the system for selected Organization unit.
 
 3. Click on the **register** button to register a new Leprosy case. The registration form will open for filling the patient's demographic information as shown in figure 43.
