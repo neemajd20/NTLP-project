@@ -35,7 +35,7 @@ const sidebars = {
             type: 'category',
             label: ' Setting up the Electronic TB Register',
             items: [
-              'Setting-up-the-Electronic-TB-Register/Setting-up-a User',
+              'Setting-up-the-Electronic-TB-Register/Setting-up-a-User',
               'Setting-up-the-Electronic-TB-Register/Password-policies',
               'Setting-up-the-Electronic-TB-Register/Accessing-the-system',
             ],

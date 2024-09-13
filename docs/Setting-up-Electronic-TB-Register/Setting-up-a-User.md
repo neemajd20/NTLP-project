@@ -1,5 +1,5 @@
 ---
-id: Setting-up-a User
+id: Setting-up-a-User
 title: Setting up a User
 sidebar_position: 1
 ---
